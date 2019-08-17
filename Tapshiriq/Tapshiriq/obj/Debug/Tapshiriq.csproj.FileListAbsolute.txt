@@ -1,0 +1,7 @@
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\obj\Debug\Tapshiriq.csprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\obj\Debug\Tapshiriq.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\bin\Debug\Tapshiriq.exe.config
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\bin\Debug\Tapshiriq.exe
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\bin\Debug\Tapshiriq.pdb
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\obj\Debug\Tapshiriq.exe
+C:\Users\NITRO\source\repos\Tapshiriq\Tapshiriq\obj\Debug\Tapshiriq.pdb
